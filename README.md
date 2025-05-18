@@ -1,6 +1,6 @@
 # 🏀 NBAgent – Inteligência Artificial para Análise e Previsão de Jogadores da NBA
 
-NBAgent é um projeto baseado em **agentes de IA**, utilizando a Google AI Development Kit (ADK) e o modelo **Gemini 2.0 Flash**, com o objetivo de **analisar estatísticas recentes de jogadores da NBA e gerar previsões realistas de desempenho**, levando em consideração fatores como lesões, classificação nos playoffs e eliminação.
+NBAgent é um projeto derivado da Imersão IA Alura + Google Gemini 2025, baseado em **agentes de IA**, utilizando a Google AI Development Kit (ADK) e o modelo **Gemini 2.0 Flash**, com o objetivo de **analisar estatísticas recentes de jogadores da NBA e gerar previsões realistas de desempenho**, levando em consideração fatores como lesões, classificação nos playoffs e eliminação.
 
 ---
 
