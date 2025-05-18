@@ -42,7 +42,7 @@ Você pode executar o projeto diretamente no Google Colab:
 ## 🛠 Tecnologias Utilizadas
 
 - [Google GenAI](https://ai.google.dev/)
-- [Google AI Development Kit (ADK)](https://ai.google.dev/gemini-api/docs/tools/adk)
+- Google AI Development Kit (ADK)
 - Gemini 2.0 Flash
 - Google Search Tool
 - Python 3 (via Google Colab)
